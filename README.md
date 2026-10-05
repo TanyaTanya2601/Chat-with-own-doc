@@ -1,6 +1,8 @@
 ## Chat With Your Own Document
 
-A Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask natural-language questions about its content — with answers grounded in the actual document, source chunks shown for transparency, and full conversation memory for follow-up questions.
+A Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask natural-language questions about its content — with answers grounded in the document, source chunks shown for transparency, and full conversation memory for follow-up questions.
+
+Link: https://chat-with-own-doc-ecxsmzcpalhgmk4fdwpappd.streamlit.app/
 
 Built with **LangChain**, **Google Gemini**, **FAISS**, and **Streamlit**.
 
